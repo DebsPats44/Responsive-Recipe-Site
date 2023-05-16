@@ -1,0 +1,15 @@
+{
+  "name": "responsive-recipe-site",
+  "version": "1.0.0",
+  "description": "My First Tailwind CSS Project Keeping Responsiveness In Mind :)",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
